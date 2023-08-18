@@ -19,12 +19,16 @@ p{
 }
 
 #img-div{
-    max-width: 100%;
-    display: block;
     height: auto;
     margin: auto;
     width: 98%;
     background-color: white;
+}
+
+#img-div img{
+    max-width: 100%;
+    display: block;
+    margin : auto;
 }
 
 #img-caption{
