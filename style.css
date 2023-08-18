@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;1,300&display=swap');
+#main{
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 30px;
+    border-radius: 7px;
+}
+
+#title{
+    font-weight: 900;
+    font-size: 2.5rem;
+    color: rgb(53, 53, 53);
+    padding-top: 40px;
+}
+
+p{
+    color: rgb(69, 69, 69);
+}
+
+#img-div{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+    width: 98%;
+    background-color: white;
+}
+
+#img-caption{
+    padding: 15px;
+    font-size: 0.95rem;
+    color: rgb(69, 69, 69);
+}
+
+#tribute-info{
+    margin: auto;
+    text-align: left;
+    width: 600px;
+    color: rgb(69, 69, 69);
+    font-size: 0.95rem;
+}
+
+#tribute-info h3{
+    padding: 40px;
+    color: rgb(53, 53, 53);
+    text-align: center;
+}
+
+#tribute-info b{
+    color: rgb(53, 53, 53);
+}
+
+#quote{
+    font-style: italic;
+    font-weight: 600;
+    padding: 30px;
+}
+
+#tribute-link{
+
+}
+
+#tribute-link a{
+    color: rgb(52, 98, 197);
+}
